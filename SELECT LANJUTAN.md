@@ -28,7 +28,7 @@ select warna,pemilik from desc_mobil where warna="Hitam" and pemilik="ibrahim";
 
 ## Hasil
 
-![tabel AND.png](tabel%20AND.png)
+![anatom.jpg](ASET%20SELECT/tabel%20AND.png)
 
 ## Analisis
 
