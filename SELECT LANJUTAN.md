@@ -56,7 +56,8 @@ select warna,pemilik from desc_mobil where warna="Hitam" or pemilik="ibrahim";
 
 ## Hasil
 
-![[tabel OR.png]]
+![tabel OR.png](ASET%20SELECT/tabel%20OR.png)
+
 
 ## Analisis
 
